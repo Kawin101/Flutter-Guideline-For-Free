@@ -10,7 +10,7 @@ Free Guideline for Flutter development
 * > https://docs.flutter.dev/data-and-backend/state-mgmt/options
 
 # Video
-* > 
+* > https://youtu.be/5vDq5DXXxss
 
 # Links
 * > https://docs.flutter.dev/reference/tutorials
