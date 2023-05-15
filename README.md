@@ -1,5 +1,5 @@
-# Flutter-Guideline-for-Free
-Guideline for Flutter development
+# Flutter-Guideline-For-Free
+Free Guideline for Flutter development
 
 # Docs
 * > https://docs.flutter.dev/resources/books
