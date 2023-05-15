@@ -2,7 +2,8 @@
 Free Guideline for Flutter development
 
 # Docs
-* > https://docs.flutter.dev/resources/books
+* > https://api.flutter.dev/index.html
+* > https://dartpad.dev/?id=e66e420f2f0201c772f73819711bf290
 * > https://www.tutorialspoint.com/flutter/flutter_tutorial.pdf
 * > https://www.tutorialspoint.com/flutter/flutter_installation.htm
 
