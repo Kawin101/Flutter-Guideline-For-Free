@@ -17,7 +17,8 @@ Guideline for Flutter development
 * > https://www.linkedin.com/pulse/flutter-guidelines-best-practices-developing-mobile-apps-amarasinghe
 
 # Flutter's tools
-*figma plugin for flutter, UI Designer
+* figma plugin for flutter, UI Designer
 * > https://function12.io/
 * > https://medium.com/@ajay.singh07/5-figma-plugins-that-can-covert-figma-design-to-flutter-code-ecab6f61968d
-* > https://flutlab.io/editor/1b2417b9-c979-4786-93f7-f147c423fd69
+
+> https://flutlab.io/editor/1b2417b9-c979-4786-93f7-f147c423fd69
